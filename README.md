@@ -20,4 +20,5 @@
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
 ![photoshop](https://img.shields.io/badge/-photoshop-000000?style=flat&logo=photoshop&logoColor=ffffff&labelColor=2d7cd1)
