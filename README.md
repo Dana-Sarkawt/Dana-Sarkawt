@@ -19,8 +19,8 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Bootstap5](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstap&logoColor=ffffff&labelColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwind&logoColor=ffffff&labelColor=1572B6)
+![Bootstap5](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstap5&logoColor=ffffff&labelColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
 ![svelte](https://img.shields.io/badge/-svelte-000000?style=flat&logo=svelte&logoColor=ffffff&labelColor=2d7cd1)
