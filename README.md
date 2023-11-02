@@ -21,4 +21,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
-![photoshop](https://img.shields.io/badge/-photoshop-000000?style=flat&logo=photoshop&logoColor=ffffff&labelColor=2d7cd1)
+![svelte](https://img.shields.io/badge/-svelte-000000?style=flat&logo=svelte&logoColor=ffffff&labelColor=2d7cd1)
