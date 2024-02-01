@@ -30,39 +30,39 @@
 <p align="left"> 
   <!-- Python Icon -->
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-%7D012B.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/HTML5-%23194D33.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/CSS-%233776AB.svg?&style=for-the-badge&logo=css&logoColor=white" alt="css" />
+    <img src="https://img.shields.io/badge/CSS-%23194D33.svg?&style=for-the-badge&logo=css&logoColor=white" alt="css" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/Svelte-%233776AB.svg?&style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
+    <img src="https://img.shields.io/badge/Svelte-%23194D33.svg?&style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-%233776AB.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />
+    <img src="https://img.shields.io/badge/JavaScript-%23194D33.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/TypeScript-%233776AB.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+    <img src="https://img.shields.io/badge/TypeScript-%23194D33.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/Appwrite-%233776AB.svg?&style=for-the-badge&logo=appwrite&logoColor=white" alt="appwrite" />
+    <img src="https://img.shields.io/badge/Appwrite-%23194D33.svg?&style=for-the-badge&logo=appwrite&logoColor=white" alt="appwrite" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/Bootstrap-%233776AB.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Bootstrap-%23194D33.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/Tailwind CSS-%233776AB.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/Tailwind CSS-%23194D33.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" />
   </a>
   
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-%233776AB.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/Git-%23194D33.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
     
 </p>
