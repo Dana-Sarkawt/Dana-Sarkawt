@@ -30,7 +30,7 @@
 <p align="left"> 
   <!-- Python Icon -->
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-%233776AB.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/HTML5-%236A0DAD.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   </a>
   
   <a href="#" target="_blank"> 
