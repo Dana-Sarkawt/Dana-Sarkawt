@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dana-Sarkawt&" alt="Dana-Sarkawt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dana-Sarkawt&theme=radical" alt="Dana-Sarkawt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dana-Sarkawt&show_icons=true&locale=en&layout=compact" alt="Dana-Sarkawt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dana-Sarkawt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dana-Sarkawt" />
 </p>
 
 ## 🙋‍♂️ About Me
