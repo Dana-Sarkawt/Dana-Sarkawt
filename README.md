@@ -26,7 +26,7 @@
 
 ## 📈 Coding Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dana-Sarkawt&bg_color=3b1b2c&color=c5b4c4&line=d7b2d5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dana-Sarkawt&bg_color=3b1b2c&color=c5b4c4&line=d7b2d5&point=ffffff&area=true&hide_border=true)]
 
 
 ## 🚀 Languages and Tools:
