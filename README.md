@@ -1,33 +1,81 @@
+<h1 align="center">Hi 👋, I'm Dana</h1>
+<h3 align="center">A passionate Web Developer from Sulaimani</h3>
+
 <p align="center">
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />  </p>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" />
+</p>
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on developing of website & web Application
+- 💬 Ask me about Website or web application 
+- 📫 How to reach me (dana.code01@gmail.com) or Social Media
+- 🌐 My portfolio dana-sarkawt.vercel.app
+
+## 📈 Coding Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=xcode" alt="Coding Activity Graph" />
+</p>
+
+
+## 🚀 Languages and Tools:
+<p align="left"> 
+  <!-- Python Icon -->
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/HTML5-%233776AB.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  </a>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dana-Sarkawt)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/CSS-%233776AB.svg?&style=for-the-badge&logo=css&logoColor=white" alt="css" />
+  </a>
+  
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/Svelte-%233776AB.svg?&style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
+  </a>
+  
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/JavaScript-%233776AB.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />
+  </a>
+  
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/TypeScript-%233776AB.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  </a>
+  
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/Appwrite-%233776AB.svg?&style=for-the-badge&logo=appwrite&logoColor=white" alt="appwrite" />
+  </a>
+  
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/Bootstrap-%233776AB.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  </a>
+  
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tailwind CSS-%233776AB.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" />
+  </a>
+  
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-%233776AB.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+    
+</p>
 
-</div>
+## 📊 My Github Stats
 
-
-<h3 align="center",class="name" >سڵاو👋، من دانا سەرکەوت</h3>
-<h3 align="center" dir="rtl">Website Developer </h3>
-
-### Connect with me:
-<a href="https://facebook.com/dana.biotechnology" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="30" width="30" /></a>
-<a href="https://instagram.com/dana_biotechnology" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" height="30" width="30" /></a>
-
-<h3 align="right"><b>وە شارەزاییم لەمانەی خوارەوە هەیە لەبواری (FRONT END)</b></h3>
-
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Bootstap5](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstap5&logoColor=ffffff&labelColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
-![svelte](https://img.shields.io/badge/-svelte-000000?style=flat&logo=svelte&logoColor=ffffff&labelColor=2d7cd1)
-
-
-<style>
-  .name{
-    color:#f17f18;
-  }
-</style>
+  <br/>
+    <a href="https://github.com/yourusername/github-readme-stats"><img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yourusername/github-readme-stats"><img alt="Your Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
