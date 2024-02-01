@@ -2,19 +2,19 @@
 <h3 align="center">A passionate Web Developer from Sulaimani</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=Dana-Sarkawt&label=Profile%20views&color=0e75b6&style=flat" alt="Dana-Sarkawt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dana-Sarkawt&show_icons=true&locale=en&layout=compact" alt="Dana-Sarkawt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dana-Sarkawt&" alt="Dana-Sarkawt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dana-Sarkawt&show_icons=true&locale=en&layout=compact" alt="Dana-Sarkawt" />
 </p>
 
 ## 🙋‍♂️ About Me
