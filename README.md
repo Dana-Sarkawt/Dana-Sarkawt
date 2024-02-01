@@ -26,9 +26,7 @@
 
 ## 📈 Coding Activity Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dana-Sarkawt&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Dana-Sarkawt's GitHub Activity Graph" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dana-Sarkawt&bg_color=3b1b2c&color=c5b4c4&line=d7b2d5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🚀 Languages and Tools:
