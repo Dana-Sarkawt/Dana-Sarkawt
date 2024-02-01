@@ -27,7 +27,7 @@
 ## 📈 Coding Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dana-Sarkawt&theme=xcode" alt="Coding Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Dana-Sarkawt&theme=xcode" alt="Dana-Sarkawt's GitHub Activity Graph" />
 </p>
 
 
