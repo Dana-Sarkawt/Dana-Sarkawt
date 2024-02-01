@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dana</h1>
-<h3 align="center">A passionate Web Developer from Sulaimani</h3>
+<h3 align="center">Web Developer from Sulaimani</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dana-Sarkawt&label=Profile%20views&color=f17f18&style=flat" alt="Dana-Sarkawt" />
