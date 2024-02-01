@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Sulaimani</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dana-Sarkawt&label=Profile%20views&color=363636&style=flat" alt="Dana-Sarkawt" />
+  <img src="https://komarev.com/ghpvc/?username=Dana-Sarkawt&label=Profile%20views&color=f17f18&style=flat" alt="Dana-Sarkawt" />
 </p>
 
 <p align="center">
