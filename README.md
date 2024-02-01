@@ -29,9 +29,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dana-Sarkawt&bg_color=3b1b2c&color=c5b4c4&line=d7b2d5&point=ffffff&area=true&hide_border=true)]
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dana-Sarkawt&show_icons=true&count_private=true&theme=vue" alt="Dana-Sarkawt's GitHub Stats" />
-</p>
+
 
 
 ## 🚀 Languages and Tools:
