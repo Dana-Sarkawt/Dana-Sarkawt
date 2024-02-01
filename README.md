@@ -8,7 +8,7 @@
 </div>
 
 
-<h3 align="center", >سڵاو👋، من دانا سەرکەوت</h3>
+<h3 align="center",class="name" >سڵاو👋، من دانا سەرکەوت</h3>
 <h3 align="center" dir="rtl">Website Developer </h3>
 
 ### Connect with me:
@@ -24,3 +24,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
 ![svelte](https://img.shields.io/badge/-svelte-000000?style=flat&logo=svelte&logoColor=ffffff&labelColor=2d7cd1)
+
+
+<style>
+  .name{
+    color:#f17f18;
+  }
+</style>
